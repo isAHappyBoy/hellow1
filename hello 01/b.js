@@ -1,0 +1,1 @@
+console.log("创建另一个文件b.js");
